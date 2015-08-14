@@ -1,0 +1,12 @@
+<Controller>
+  <Name>Controller</Name>
+  <UniqueID>650d66ff-73f3-4fdc-82ad-9e545e81ec4e</UniqueID>
+  <FoldersExpanded>0,1</FoldersExpanded>
+  <CompileSettings>
+    <ShowVariableSource>False</ShowVariableSource>
+    <ShowLongVariableNames>False</ShowLongVariableNames>
+  </CompileSettings>
+  <ComPortSave></ComPortSave>
+  <StartsConnected>False</StartsConnected>
+  <ArduinoBoardName>Arduino Uno</ArduinoBoardName>
+</Controller>

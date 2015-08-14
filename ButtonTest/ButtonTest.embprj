@@ -1,0 +1,16 @@
+<Project>
+  <Name>ButtonTest</Name>
+  <SoftwareVersion>1.2.2.0</SoftwareVersion>
+  <ControllersExpanded>1</ControllersExpanded>
+  <Controllers>
+    <Controller>Controller/Controller.cntl</Controller>
+  </Controllers>
+  <PlaybackControl>
+    <MemoryRange>10</MemoryRange>
+    <PlaybackIncrement>0.05</PlaybackIncrement>
+  </PlaybackControl>
+  <Tabs>
+    <Tab>a94cc4bc-1513-46cf-828c-cb074b896b84</Tab>
+  </Tabs>
+  <IncludeFiles></IncludeFiles>
+</Project>
